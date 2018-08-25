@@ -1,27 +1,22 @@
 # Adonis API application
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+Aplicaçao RocketTwiter desenvolvida utilizando a seguinte stack de tecnologias:
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+1. AdonisJS
+2. Jwt
 
 ## Setup
 
-Use the adonis command to install the blueprint
+Para executar o projeto voce deve executar o seguinte comando
 
 ```bash
-adonis new yardstick --api-only
+adonis serve
 ```
-
-or manually clone the repo and then run `npm install`.
-
 
 ### Migrations
 
-Run the following command to run startup migrations.
+Para persistir as informações deve ser configurado no .env de acordo com seu banco de dados e 
+executar o seguinte comando
 
 ```js
 adonis migration:run
