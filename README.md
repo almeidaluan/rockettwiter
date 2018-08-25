@@ -15,7 +15,7 @@ adonis serve
 
 ### Migrations
 
-Para persistir as informações deve ser configurado no .env de acordo com seu banco de dados e 
+Para persistir as informações deve ser configurado o arquivo .env de acordo com seu banco de dados e 
 executar o seguinte comando
 
 ```js
