@@ -1,6 +1,6 @@
 # Adonis API application
 
-Aplicaçao RocketTwiter desenvolvida utilizando a seguinte stack de tecnologias:
+Aplicaçao RocketTwiter[CRUD de Tweets] desenvolvida utilizando a seguinte stack de tecnologias:
 
 1. AdonisJS
 2. Jwt
